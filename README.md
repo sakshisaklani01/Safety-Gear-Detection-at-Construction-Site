@@ -4,3 +4,4 @@ Using Object Detection model to identify the safety equipment's such as hard hat
 Intially it is implemented for hardhat using Yolov7.
 We have used Dataset from kaggle:https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
 Yolov7 Official Link:https://github.com/WongKinYiu/yolov7.git
+We have also detected vests and hats on chv dataset:https://github.com/ZijianWang1995/ppe_detection
